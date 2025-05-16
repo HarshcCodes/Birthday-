@@ -1,0 +1,45 @@
+#B{
+    height: 400px;
+    width: 400px;
+    padding-left: 30px;
+}
+#C{
+    height: 400px;
+    width: 400px;
+    padding-left: 600px;
+}
+#F{
+    height: 400px;
+    width: 550px;
+    padding-left: 480px;
+}
+#D{
+    height: 350px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+#G{
+    height: 350px;
+    padding-left: 155px;
+}
+#E{
+    height: 350px;
+    padding-left: 250px;
+}
+#hsd{
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+    text-decoration: dashed underline 4px;
+
+}
+#tdi{
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+}
+#jdk{
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+}
