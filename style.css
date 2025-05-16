@@ -1,0 +1,76 @@
+pre{
+    text-align: center;
+}
+#B{
+    height: 250px;
+}
+#C{
+    height: 250px;
+    
+}
+#D{
+    height: 250px;
+    width: 490px;
+    
+}
+#E{
+    height: 240px;
+}
+#F{
+    height: 240px;
+    margin-left: 254px;
+}
+#G{
+    height: 265px;
+    width: 480px;
+    margin-left: 270px;
+}
+#H{
+    height: 240px;
+}
+#I{
+    height: 400px;
+    margin-left: 310px;
+}
+#J{
+    height: 240px;
+    margin-left: 289px;
+}
+#K{
+    height: 240px;
+}
+#L{
+    height: 240px;
+    margin-left: 233px;
+}
+#M{
+    height: 250px;
+}
+#N{
+    height: 250px;
+    margin-left: 234px;
+}
+#mk{
+    height: 30px;
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+}
+#W{
+    height: 350px;
+    width: 500px;
+    margin-left: 260px;
+}
+body{
+    border-color: white;
+    border-width: 7px;
+    border-style: solid;
+    background-color: black;
+}
+#fgh{
+    border-radius: 14%;
+    height: 35px;
+    width: 120px;
+    font-weight: 900;
+    font-size: 15px;
+}
